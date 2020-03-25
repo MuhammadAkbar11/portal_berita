@@ -20,7 +20,7 @@
                                 </div>
                                 <div class="form-group">
                                     <div class="input-group">
-                                        <input class="form-control" placeholder="Masukan Password" name="password" type="password">
+                                        <input class="form-control input-email" placeholder="Masukan Password" name="password" type="password">
                                         <div class="input-group-append">
                                             <span class="input-group-text"><span class="feather-icon"><i data-feather="eye-off"></i></span></span>
                                         </div>

@@ -18,6 +18,12 @@
 
     <!-- Custom CSS -->
     <link href="<?= base_url('assets/'); ?>dist/css/style.css" rel="stylesheet" type="text/css">
+
+    <style>
+        .input-email::placeholder {
+            color: red important;
+        }
+    </style>
 </head>
 
 <body>
