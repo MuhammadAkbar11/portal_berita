@@ -16,11 +16,11 @@
                                     <p class="mb-20">WEB Programming III</p>
                                 </div>
                                 <div class="form-group">
-                                    <input class="form-control" placeholder="Email" type="email">
+                                    <input class="form-control" name="email" placeholder="Masukan Email" type="email">
                                 </div>
                                 <div class="form-group">
                                     <div class="input-group">
-                                        <input class="form-control" placeholder="Password" type="password">
+                                        <input class="form-control" placeholder="Masukan Password" name="password" type="password">
                                         <div class="input-group-append">
                                             <span class="input-group-text"><span class="feather-icon"><i data-feather="eye-off"></i></span></span>
                                         </div>
